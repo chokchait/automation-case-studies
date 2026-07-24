@@ -1,6 +1,10 @@
 # Campaign auto-setup: from hours to minutes
 
 **System:** marketing campaign generator for push, EDM, in-app popups, and home banners across 7 markets (TH, MY, HK, PH, TW, SG, JP)
+
+> **Scope note:** This case study documents the historical seven-market setup,
+> including Japan. My current group scope covers six APAC markets:
+> Thailand, Taiwan, Malaysia, Singapore, the Philippines, and Hong Kong.
 **Stack:** n8n · CleverTap API · LLM APIs · APITemplate.io
 **Status:** live for push and EDM; social automation in progress
 
